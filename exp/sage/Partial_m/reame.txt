@@ -1,0 +1,2 @@
+若e较小，并且已知m的高位，则可通过此方法求出完整的m
+http://www.socold.cn/index.php/archives/70/
